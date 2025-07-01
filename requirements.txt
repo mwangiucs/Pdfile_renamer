@@ -1,1 +1,4 @@
-
+openai
+PyMuPDF
+Pillow
+tk
