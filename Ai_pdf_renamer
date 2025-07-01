@@ -1,6 +1,0 @@
-ai-pdf-renamer/
-├── pdf_renamer_gui.py      # Your main script
-├── requirements.txt        # Dependencies
-└── .github/
-    └── workflows/
-        └── build.yml      # GitHub Actions workflow
